@@ -27,7 +27,9 @@ The goal is to be able to predict the winner of next matches from past records a
 
 ### Features engineering
 
-Most important features are time dependent in this time series data. 
+Most important features are time dependent in this time series data. The most important features are pair rivals with the country 
+![image](https://user-images.githubusercontent.com/59888340/140637501-74a0139c-6030-497c-ba78-f9a519cf02bb.png)
+
 
 Most important features turned to be:
 ### Modeling 
