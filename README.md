@@ -32,6 +32,5 @@ Most important features are time dependent in this time series data. The most im
 ![image](https://user-images.githubusercontent.com/59888340/140637501-74a0139c-6030-497c-ba78-f9a519cf02bb.png)
 
 
-Most important features turned to be:
 ### Modeling 
 The data is small, so automl was used to devolop a base model on normal featuers and a good model on the new features and compare results 
